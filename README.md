@@ -1,5 +1,5 @@
 👋 Hi, I’m @DownCloud  
-basicly I'm a random guy who publishes simple code(that he made mostly on his own)
+basicly I'm a random guy who publishes simple code
 
 Current TODO:  
 -Make a TODO list manager
