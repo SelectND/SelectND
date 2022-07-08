@@ -1,5 +1,4 @@
 👋 Hi, I’m @DownCloud  
-basicly I'm a random guy who publishes simple code
+basicly I'm a random guy who publishes simple code mostly in Python
 
-Current TODO:  
--> Create a client/server exchanging program via Python Socket(WIP)
+Currently I have no plans for nothing, only some random ideas
