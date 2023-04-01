@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=downcloud&label=Profile%20views&color=0e75b6&style=flat" alt="downcloud" /> </p>
 
-- 🌱 I’m currently learning **django**
+<!-- - 🌱 I’m currently learning **things** -->
 
 - 📫 How to reach me **Cloudocity@outlook.de**
 
