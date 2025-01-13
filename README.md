@@ -11,8 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I'm 9<br>📚 I'm currently expanding my skills in the Python field<br>🎯 Goals: Get all my small projects done<br>🎲 Fun fact: <br>
-  01010100 01101000 01101001 01110011 00100000 01100110 01100001 01100011 01110100 00100000 01101001 01110011 00100000 01110011 01110101 01110000 01110000 01101111 01110011 01100101 01100100 00100000 01110100 01101111 00100000 01100010 01100101 00100000 01100110 01110101    01101110 00100000 00111010 00101001 (ASCII)</p>
+<p align="left">✨ Creating bugs since I'm 9<br>📚 I'm currently expanding my skills in the Python field<br>🎯 Goals: Get all my small projects done</p>
 
 ###
 
